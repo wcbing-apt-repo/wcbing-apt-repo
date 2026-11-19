@@ -42,6 +42,7 @@
 | muse-sounds-manager | [MuseSounds Manager](https://musescore.org/download) | ✅ | |
 | ovital-map | [奥维互动地图](https://www.ovital.com/download/) | ✅ | ✅ |
 | qqmusic | [QQ音乐](https://y.qq.com/download/download.html) | ✅ | |
+| steamcommunity-302 | [Steamcommunity302](https://www.dogfight360.com/blog/18682/) | ✅ | ✅ |
 | tdappdesktop | [腾讯文档](https://docs.qq.com/home/download) | ✅ | ✅ |
 | todesk | [ToDesk](https://www.todesk.com/linux.html) | ✅ | ✅ |
 | utools | [uTools](https://u.tools/download/) | ✅ | |
